@@ -1,6 +1,6 @@
 # Scrabble_Player_Rating_Prediction
 ### Project Introduction
-In this project, we aimed to develop a predictive model that can estimate a Scrabble player's rating before engaging in a game. To accomplish this, we utilized gameplay data sourced from Woogles.io, an online platform for playing Scrabble. This dataset was instrumental in training and testing our model to ensure optimal performance. Our evaluation metric of choice was the root mean squared error (RMSE), which quantifies the average difference between predicted and actual ratings.
+In this project, we aimed to develop a predictive model that can estimate a Scrabble player's rating before engaging in a game. To accomplish this, we utilized gameplay data sourced from Kaggle of Woogles.io, an online platform for playing Scrabble. This dataset was instrumental in training and testing our model to ensure optimal performance. Our evaluation metric of choice was the root mean squared error (RMSE), which quantifies the average difference between predicted and actual ratings.
 
 ### What's Scrabble?
 Scrabble, a classic two-person crossword board game, involves strategically placing letter tiles on the board to form words, with players earning points based on various factors like word length and board positioning.
