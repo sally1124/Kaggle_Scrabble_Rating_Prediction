@@ -8,14 +8,15 @@ Scrabble, a classic two-person crossword board game, involves strategically plac
 ### Model Development Approach
 To create a model geared towards minimizing the root mean squared error (RMSE), we implemented the following methodologies:
 
-Feature Engineering:
+**Feature Engineering:**
 We delved into the realm of feature engineering, exploring novel and original features to identify those with the most significant impact on prediction accuracy.
 
-Model Comparison:
+**Model Comparison:**
 Our exploration extended to testing five distinct algorithms, each bringing its unique strengths to the table. The algorithms included in our comparative analysis were:
 1. Linear Regression
 2. K-Nearest Neighbors (KNN)
 3. Decision Trees
 4. Random Forest
 5. XGBoost
+   
 Through rigorous testing, we identified and selected the best-performing model from this diverse set, ensuring optimal predictive capabilities for Scrabble player ratings.
