@@ -7,7 +7,7 @@ Kaggle challenge: https://www.kaggle.com/competitions/scrabble-player-rating/dat
 ### What's Scrabble?
 Scrabble, a classic two-person crossword board game, involves strategically placing letter tiles on the board to form words, with players earning points based on various factors like word length and board positioning.
 
-### Model Development Approach
+# Model Development Approach
 To create a model geared towards minimizing the root mean squared error (RMSE), we implemented the following methodologies:
 
 **Feature Engineering:**
